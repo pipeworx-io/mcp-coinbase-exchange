@@ -2,7 +2,7 @@
 
 [Coinbase Exchange](https://docs.cdp.coinbase.com/exchange/docs/welcome) MCP — keyless public market endpoints.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1576+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1663+ live data sources.
 
 ## Tools
 
@@ -65,7 +65,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1576+ data sources. The
+Both URLs reach the same gateway and the same 1663+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
