@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-coinbase-exchange",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Coinbase Exchange public MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-17373550778ade1970451fa7c251ab070149f1f52d9601748ece518a3bc0572a",
+    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
   }
 }
